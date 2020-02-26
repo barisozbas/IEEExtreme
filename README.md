@@ -1,6 +1,6 @@
 # IEEExtreme
 
-- In this repo you will find some of IEEExtreme programming contest questions's (2017-2018) solutions.
+- In this repo you will find some of IEEExtreme programming contest questions's (2017-2018) solutions written by me.
 
 - IEEEXtreme is a global challenge in which teams of IEEE Student members – advised and proctored by an IEEE member, and often supported by an IEEE Student Branch – compete in a 24-hour time span against each other to solve a set of programming problems.
 
